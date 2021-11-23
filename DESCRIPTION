@@ -1,0 +1,46 @@
+Type: Compendium
+Package: Xprod
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com")
+Description: HCV example
+License: What license it uses
+Depends: 
+    cowplot,
+    DBI,
+    dbplyr,
+    deSolve,
+    dplyr,
+    DT,
+    flextable,
+    GA,
+    ggplot2,
+    gridExtra,
+    hrbrthemes,
+    htmltools,
+    jsonlite,
+    lubridate,
+    magrittr,
+    plotly,
+    purrr,
+    reshape2,
+    rsconnect,
+    RSQLite,
+    scales,
+    shiny,
+    shinyalert,
+    shinyBS,
+    shinybusy,
+    shinycssloaders,
+    shinydashboard,
+    shinyFeedback,
+    shinyjs,
+    shinyLP,
+    shinyWidgets,
+    yaml
+Encoding: UTF-8
+LazyData: true

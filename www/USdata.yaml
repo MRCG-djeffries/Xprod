@@ -1,0 +1,55 @@
+# US model data Jume 2021
+--- # Transistion probabilites
+Acute_infection_to_mild_weeks: 30
+per_spon_clear: 0.297
+F0_to_F1_current_PWID_prob: 0.117
+F0_to_F1_former_PWID_prob:  0.113
+F1_to_F2_current_PWID_prob: 0.085
+F1_to_F2_former_PWID_prob:  0.058
+F2_to_F3_current_PWID_prob: 0.12
+F2_to_F3_former_PWID_prob:  0.079
+F3_to_F4_current_PWID_prob: 0.116
+F3_to_F4_former_PWID_prob:  0.12
+F4_to_DC: 0.039
+F4_to_HCC: 0.015
+DC_to_HCC: 0.068
+DC_to_LT: 0.023
+HCC_to_LT: 0.04
+S4_to_DC: 0.02
+S4_to_HCC: 0.02
+--- # Liver related deaths
+LT_to_death_y1: 0.107
+LT_to_death_y2: 0.0485
+DC_to_death: 0.182
+HCC_to_death: 0.707
+--- # Drug use
+Mean_age_at_first_injection: 22.4
+Duration_of_injecting_career: 16.2
+Relapse_rate_20_24: 0.78
+Relapse_rate_25_29: 0.012
+Relapse_rate_30_34: 0.043
+Relapse_rate_35_44: 0.043
+Relapse_rate_45_54: 0.043
+Relapse_rate_55_64: 0.043
+Relapse_rate_65_74: 0.043
+Relapse_rate_75_84: 0.043
+Relapse_rate_85p: 0.043
+--- # Non liver related mortality
+Former_pwid_mortality_20_24: 1.28
+Former_pwid_mortality_25_29: 1.28
+Former_pwid_mortality_30_34: 2.49
+Former_pwid_mortality_35_44: 3.7
+Former_pwid_mortality_45_54: 4.91
+Former_pwid_mortality_55_64: 4.91
+Former_pwid_mortality_65_74: 4.91
+Former_pwid_mortality_75_84: 4.91
+Former_pwid_mortality_85p: 4.91
+Current_pwid_mortality_20_24: 7.88
+Current_pwid_mortality_25_29: 7.88
+Current_pwid_mortality_30_34: 6.33
+Current_pwid_mortality_35_44: 9.28
+Current_pwid_mortality_45_54: 14.86
+Current_pwid_mortality_55_64: 14.86
+Current_pwid_mortality_65_74: 14.86
+Current_pwid_mortality_75_84: 14.86
+Current_pwid_mortality_85p: 14.86

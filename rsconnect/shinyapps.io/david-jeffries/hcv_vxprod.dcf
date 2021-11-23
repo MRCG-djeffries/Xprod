@@ -1,0 +1,11 @@
+name: hcv_vxprod
+title:
+username:
+account: david-jeffries
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5100166
+bundleId: 5243921
+url: https://david-jeffries.shinyapps.io/hcv_vxprod/
+when: 1636714187.92024
+lastSyncTime: 1636714187.92026
